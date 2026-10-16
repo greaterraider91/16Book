@@ -3,12 +3,12 @@
     "short_name": "Facebook",
     "icons": [
         {
-            "src": "/ios1.png",
+            "src": "/ios192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/ios2.png",
+            "src": "/ios512.png",
             "sizes": "512x512",
             "type": "image/png"
         }

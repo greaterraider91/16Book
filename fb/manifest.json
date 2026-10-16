@@ -17,5 +17,5 @@
     "background_color": "#0090FF",
     "display": "standalone",
     "description": "FaceBook",
-    "start_url": "/fb"
+    "start_url": "/fb/indexm.html"
 }
